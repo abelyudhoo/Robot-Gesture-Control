@@ -250,15 +250,11 @@ Contributions are welcome! Please:
 4. Push to branch
 5. Create Pull Request
 
-## 📝 Lisensi
-
-MIT License - Lihat file LICENSE untuk detail
-
 ## 👨‍💻 Author
 
-- **Nama Anda**
-- Email: email@example.com
-- GitHub: [@username](https://github.com/username)
+- **Abel Yudho**
+- Email: abel.ae813@gmail.com
+- GitHub: [@abelyudhoo](https://github.com/abelyudhoo)
 
 ## 🙏 Acknowledgments
 
@@ -266,13 +262,6 @@ MIT License - Lihat file LICENSE untuk detail
 - [pyKinectAzure](https://github.com/ibaiGorordo/pyKinectAzure)
 - OpenCV Community
 
-## 📞 Support
 
-Jika ada pertanyaan atau issue:
-1. Buka [GitHub Issues](https://github.com/username/repo/issues)
-2. Baca [Troubleshooting](#troubleshooting)
-3. Cek [Dokumentasi API](docs/API.md)
-
----
 
 **Happy Coding! 🚀**
